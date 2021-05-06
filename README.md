@@ -5,3 +5,4 @@
 ####          Nhấn 'd' để sang phải
 ####          Nhấn 'w' để lên trên
 ####          Nhấn 's' đế sang phải
+*Nhấn 'ESC' để thoát*
